@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '63d61d612ade658ef73b6c67f7ae5529ed815778',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -19,6 +19,15 @@
       array (
       ),
       'reference' => '9cb795bf30988e8c96dd3c40623c48a877bc6714',
+    ),
+    'brian2694/laravel-toastr' => 
+    array (
+      'pretty_version' => '5.54',
+      'version' => '5.54.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'e543a8a6953be6b25706da4c7ae48600666a70dc',
     ),
     'brick/math' => 
     array (
@@ -440,12 +449,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '63d61d612ade658ef73b6c67f7ae5529ed815778',
     ),
     'laravel/sail' => 
     array (
